@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(172, 201, 206);
+}
+#app{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#cat{
+    background-color: aqua;
+}
+.card-img-top{
+    width:230px ;
+    height: 230px;
+    margin-left: 25px;
+    border: solid;
+    margin: 20px;
+}
+button{
+    justify-content: center;
+}
+#animaltype{
+    background-color: rgb(216, 216, 186);
+}
